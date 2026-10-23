@@ -1,7 +1,7 @@
 # NeRSO: Neural Regime-Switching Optimizer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org)
+[![Python 3.7+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org)
 [![Journal](https://img.shields.io/badge/journal-TEVC%20(2026)-blue.svg)](https://github.com/BINUCOE/NeRSO)
 [![CEC2022](https://img.shields.io/badge/benchmark-CEC2022-green.svg)](experiments/benchmark_cec2022)
 
