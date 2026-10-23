@@ -1,0 +1,26 @@
+D=10: Friedman chi2=101.437 p=2.8090e-17 | Nemenyi CD=4.284 (k=11, N=12)
+  SHADE          avg_rank=2.208
+  LSHADE         avg_rank=2.708
+  DE             avg_rank=2.792
+  NLSHADERSPMID  avg_rank=2.833
+  AD-PSO         avg_rank=4.958
+  EIO            avg_rank=6.667
+  NPDOA          avg_rank=7.333
+  AD-SCA         avg_rank=8.000
+  PSO            avg_rank=8.667
+  wDecay         avg_rank=8.917
+  SCA            avg_rank=10.917
+  CD 显著对: AD-PSO vs SCA (|d|=5.96); AD-SCA vs DE (|d|=5.21); AD-SCA vs LSHADE (|d|=5.29); AD-SCA vs NLSHADERSPMID (|d|=5.17); AD-SCA vs SHADE (|d|=5.79); DE vs NPDOA (|d|=4.54); DE vs PSO (|d|=5.88); DE vs SCA (|d|=8.12); DE vs wDecay (|d|=6.12); EIO vs SHADE (|d|=4.46); LSHADE vs NPDOA (|d|=4.62); LSHADE vs PSO (|d|=5.96); LSHADE vs SCA (|d|=8.21); LSHADE vs wDecay (|d|=6.21); NLSHADERSPMID vs NPDOA (|d|=4.50); NLSHADERSPMID vs PSO (|d|=5.83); NLSHADERSPMID vs SCA (|d|=8.08); NLSHADERSPMID vs wDecay (|d|=6.08); NPDOA vs SHADE (|d|=5.12); PSO vs SHADE (|d|=6.46); SCA vs SHADE (|d|=8.71); SHADE vs wDecay (|d|=6.71)
+D=20: Friedman chi2=97.245 p=1.9367e-16 | Nemenyi CD=4.284 (k=11, N=12)
+  DE             avg_rank=2.042
+  NLSHADERSPMID  avg_rank=2.333
+  SHADE          avg_rank=3.417
+  LSHADE         avg_rank=3.500
+  AD-PSO         avg_rank=4.542
+  EIO            avg_rank=6.917
+  NPDOA          avg_rank=7.167
+  AD-SCA         avg_rank=7.417
+  PSO            avg_rank=8.750
+  wDecay         avg_rank=9.000
+  SCA            avg_rank=10.917
+  CD 显著对: AD-PSO vs SCA (|d|=6.37); AD-PSO vs wDecay (|d|=4.46); AD-SCA vs DE (|d|=5.38); AD-SCA vs NLSHADERSPMID (|d|=5.08); DE vs EIO (|d|=4.88); DE vs NPDOA (|d|=5.12); DE vs PSO (|d|=6.71); DE vs SCA (|d|=8.88); DE vs wDecay (|d|=6.96); EIO vs NLSHADERSPMID (|d|=4.58); LSHADE vs PSO (|d|=5.25); LSHADE vs SCA (|d|=7.42); LSHADE vs wDecay (|d|=5.50); NLSHADERSPMID vs NPDOA (|d|=4.83); NLSHADERSPMID vs PSO (|d|=6.42); NLSHADERSPMID vs SCA (|d|=8.58); NLSHADERSPMID vs wDecay (|d|=6.67); PSO vs SHADE (|d|=5.33); SCA vs SHADE (|d|=7.50); SHADE vs wDecay (|d|=5.58)

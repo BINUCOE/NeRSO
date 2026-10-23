@@ -1,0 +1,40 @@
+{
+  "created": "2026-10-13T10:54:35",
+  "smoke": false,
+  "algos": [
+    "EIOv3"
+  ],
+  "funcs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "dims": [
+    10,
+    20
+  ],
+  "runs": 30,
+  "seed_base": 666,
+  "budget": {
+    "10": 200000,
+    "20": 500000
+  },
+  "code_sha256": {
+    "core/common.py": "b908f4230484eb7be6bb94de4c07a95052996920f1dffc897ae70b74e9fa53db",
+    "core/ad_switchboard.py": "00770e31b0bf8eb47707c7c74d68892415da95bb0298f9507a71b7aae7b59f23",
+    "core/pso_family.py": "80a552012943613c6c8d810b89ed7472b77e5d5ef1e78ff408fa5707108eaca7",
+    "core/sca_family.py": "b68cf820925e2fc593ee44619020d25444ea50e12dfbad100935ff541e6d9bab",
+    "core/eio_family.py": "b8b9e2d03861d6f18ff8b98b6710c3da419f9f8bce1643efb07a6dedb4a1727d",
+    "core/npdoa.py": "edbf09359a5d9dce10121fb8c590c7cd5c50c2e0f637e57ba1073ad15a384cbc",
+    "core/cec_schwefel_fix.py": "e6d32db465d96ccd1c2d24ff48248b5be4a18d6c4dd2681e8ca5c3fbc5c23d52"
+  }
+}
