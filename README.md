@@ -6,7 +6,7 @@
 **NeRSO lets the motion kernel of a metaheuristic optimizer *grow* a nervous system instead of grafting one onto it.**
 In a unified master equation, the inertial mass *m* becomes a state variable (not a design constant), so that first-order oscillatory exploration and second-order inertial refinement become two switchable phases of one neural kernel. All governance time scales are derived from eigenvalue analysis of the kernel's own excitatory–inhibitory (E-I) population dynamics, and the switching timing is decided endogenously by the search's own dispersion — not by a preset schedule.
 
-> The first kernel-level instance of neurodynamics-inspired metaheuristic optimization. Predecessor: [AD-PSO & AD-SCA, *One Nervous System, Two Bodies* (IEEE TEVC, 2026)] — the "one system, two bodies" controlled pair this work folds into "one kernel, two phases".
+> The first kernel-level instance of neurodynamics-inspired metaheuristic optimization. Predecessor: [AD-PSO & AD-SCA, *One Nervous System, Two Bodies* (IEEE TEVC-submitted, 2026)] — the "one system, two bodies" controlled pair this work folds into "one kernel, two phases".
 
 ---
 
